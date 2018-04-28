@@ -1,0 +1,1 @@
+﻿File Explorer có chức năng đọc nội dung bên trong ổ đĩa C và xóa file cần xóa 
